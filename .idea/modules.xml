@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CodeLab.iml" filepath="$PROJECT_DIR$/CodeLab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_1/Modul_1.iml" filepath="$PROJECT_DIR$/Modul_1/Modul_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_2/Modul_2.iml" filepath="$PROJECT_DIR$/Modul_2/Modul_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_3/Modul_3.iml" filepath="$PROJECT_DIR$/Modul_3/Modul_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_4/Modul_4.iml" filepath="$PROJECT_DIR$/Modul_4/Modul_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_5/Modul_5.iml" filepath="$PROJECT_DIR$/Modul_5/Modul_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modul_6/Modul_6.iml" filepath="$PROJECT_DIR$/Modul_6/Modul_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tugas_PBO/Tugas_PBO.iml" filepath="$PROJECT_DIR$/Tugas_PBO/Tugas_PBO.iml" />
+    </modules>
+  </component>
+</project>
